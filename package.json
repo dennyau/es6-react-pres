@@ -30,6 +30,11 @@
     "react": "^0.13.1"
   },
   "devDependencies": {
+    "koa": "",
+    "koa-mount": "",
+    "koa-static": "",
+    "koa-route": "",
+    "babel": "",
     "babelify": "^6.0.2",
     "browserify": "^9.0.8",
     "gulp": "^3.8.11",
